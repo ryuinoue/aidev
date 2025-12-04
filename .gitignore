@@ -1,1 +1,7 @@
 .venv
+# 学習環境の設定ファイルは追跡しない
+.vscode/settings.json
+# その他の課題以外のファイルは追跡しない
+Lesson05_Data-Preprocessing/.gitingnore
+Lesson05_Data-Preprocessing/AI05_実習.ipynb
+Lesson05_Data-Preprocessing/課題1：住宅価格のデータの前処理_元.ipynb
